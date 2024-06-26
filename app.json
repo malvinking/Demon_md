@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (Ethix-MD)",
+  "name": "whatsapp-bot (ᴅᴇᴍᴏɴ_ᴍᴅ)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Ethix-Xsid/Ethix-MD",
+  "repository": "https://github.com/malvinking/Demon_md",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
