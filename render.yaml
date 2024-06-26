@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ᴅᴇᴍᴏɴ_ᴍᴅ
+    name: Demon_md
     env: node
     branch: main
     repo: https://github.com/malvinking/Demon_md.git
