@@ -78,7 +78,7 @@
 <div align="left">
   <a href="https://github.com/malvinking"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
   
-  | [SIDHARTH](https://github.com/malvinking) |
+  | [ᴍᴀʟᴠɪɴ ᴋɪɴɢ](https://github.com/malvinking) |
   | Owner, Developer, Bug Fixer, Maintainer, updates |
 </div>
 
