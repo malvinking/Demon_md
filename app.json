@@ -5,6 +5,7 @@
     "whatsapp bot"
   ],
   "repository": "https://github.com/malvinking/Demon_md",
+  "logo": "https://telegra.ph/file/a568780a23f9a324cdf4f.jpg"
   "stack": "container",
   "env": { 
       "SESSION_ID": {
