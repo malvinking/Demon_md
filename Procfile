@@ -1,3 +1,3 @@
-web: node . --server
+mweb: node . --server
 
  
