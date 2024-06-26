@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{malvinking}/count.svg" alt="malvinking :: Visitor's Count" /></p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -27,12 +27,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/malvinking/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
+  <a href="https://github.com/malvinking/followers"><img title="Followers" src="https://img.shields.io/github/followers/malvinking?color=red&style=flat-square"></a>
   <a href="https://github.com/malvinking/Demon_md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/malvinking/Demon_md?color=blue&style=flat-square"></a>
   <a href="https://github.com/malvinking/Demon_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/malvinking/Demon_md?color=red&style=flat-square"></a>
   <a href="https://github.com/malvinking/Demon_m/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/malvinking/Demon_md?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/malvinking/Demon_md"><img title="Open Source" src="https://img.shields.io/badge/Author-ᴍᴀʟᴠɪɴ-ᴋɪɴɢ X %20HASEEB-red?v=103"></a>
-  <a href="https://github.com/malvinking/Demon_md"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-MD?style=flat-square&color=green"></a>
+  <a href="https://github.com/malvinking/Demon_md"><img title="Open Source" src="https://img.shields.io/badge/Author-ᴍᴀʟᴠɪɴ-ᴋɪɴɢX %20HASEEB-red?v=103"></a>
+  <a href="https://github.com/malvinking/Demon_md"><img title="Size" src="https://img.shields.io/github/repo-size/malvinking/Demon_md?style=flat-square&color=green"></a>
   <a href="https://github.com/malvinking/Demon_m/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
