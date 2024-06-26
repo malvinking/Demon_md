@@ -1,13 +1,13 @@
 # ᴅᴇᴍᴏɴ_ᴍᴅ 
 
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
+  <a href="https://youtube.com/@speedtechi">
     <img alt="ᴅᴇᴍᴏɴ_ᴍᴅ" height="300" src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/malvinking"><img title="Author" src="https://img.shields.io/badge/malvinking?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/malvinking"><img title="Author" src="https://img.shields.io/badge/malvinking?style=for-the- badge&logo=WhatsApp"></a>
 </p>
 
 <p align="center">Introducing ᴅᴇᴍᴏɴ_ᴍᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
