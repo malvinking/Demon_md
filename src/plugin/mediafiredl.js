@@ -20,7 +20,7 @@ const mediafireDownload = async (m, Matrix) => {
 
       if (mediafireInfo && mediafireInfo.link) {
         const mediaUrl = mediafireInfo.link;
-        const caption = `> © Powered By Ethix-Xsid\n> File: ${mediafireInfo.name}\n> Size: ${mediafireInfo.size}\n> Date: ${mediafireInfo.date}`;
+        const caption = `> © Powered By ᴅᴇᴍᴏɴ_ᴍᴅ\n> File: ${mediafireInfo.name}\n> Size: ${mediafireInfo.size}\n> Date: ${mediafireInfo.date}`;
 
 
         const extension = mediaUrl.split('.').pop().toLowerCase();

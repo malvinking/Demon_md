@@ -3,7 +3,7 @@ const { generateWAMessageFromContent, proto } = pkg;
 import axios from 'axios'; // Import axios for HTTP requests
 
 const handleRepoCommand = async (m, Matrix) => {
-  const repoUrl = 'https://api.github.com/repos/Ethix-Xsid/Ethix-MD';
+  const repoUrl = 'https://api.github.com/repos/malvinking/Demon_md;
   try {
     const response = await axios.get(repoUrl);
     const repoData = response.data;
@@ -52,14 +52,14 @@ const handleRepoCommand = async (m, Matrix) => {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
                     display_text: "Click Here To Fork",
-                    url: `https://github.com/Ethix-Xsid/Ethix-MD/fork`
+                    url: `https://github.com/malvinking/Demon_md/fork`
                   })
                 },
                 {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
                     display_text: "Join Our Community",
-                    url: `https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S`
+                    url: `https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z`
                   })
                 }
               ],
