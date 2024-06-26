@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: Ethix-MD
+    name: ᴅᴇᴍᴏɴ_ᴍᴅ
     env: node
     branch: main
-    repo: https://github.com/Ethix-Xsid/Ethix-MD.git
+    repo: https://github.com/malvinking/Demon_md.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
